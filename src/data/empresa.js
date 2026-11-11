@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+     {
+      titulo: "Compromisso",
+      descricao: "Busca qualidade e satisfação dos clientes."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+        {
+      nome: "Darlys",
+      cargo: "Desenvolvedor de Software",
+      foto: "/images/darlys.jpg",
+      alt: "Foto de Darlys",
+      descricao: "Desenvolve, implementa, testa e mantém sistemas e aplicações, criando soluções tecnológicas eficientes, seguras e inovadoras, garantindo qualidade e desempenho."
     }
   ]
 };
